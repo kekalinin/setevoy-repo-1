@@ -8,3 +8,12 @@
   - Merge branch 'buttons' into boots_buttons Kirill K. 30.11.2023 22:29
   - Merge branch 'boots' into boots_buttons Kirill K. 30.11.2023 22:29
   - fix readme Andrew Khodzhakhanov 29.06.2016 2:29
+
+4. Убедитесь, что видите изменения в веб-интерфейсе. Сколько коммитов вы видите в удаленном репозитории?
+   Перечислите комментарии из них. (В файле hometask.txt).
+- Изменения видны в ветке master:
+  - https://github.com/kekalinin/setevoy-repo-1/commits/master/
+- Комментарии последних изменений:
+  - Добавил hometask.txt
+  - Merge branch 'boots_buttons'
+  - Merge remote-tracking branch 'origin/hat'
