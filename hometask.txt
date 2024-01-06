@@ -1,0 +1,10 @@
+2. Сравните получившуюся ветку master и удаленную ветку demo — чем они отличаются?
+- Изменения, которые есть в ветке "origin/demo", но нет в "master":
+  - Merge branch 'buttons' into demo Andrew Khodzhakhanov 29.06.2016 2:29
+  - Merge branch 'boots' into release Andrew Khodzhakhanov 29.06.2016 0:55
+- Изменения, которые есть в ветке "master", но нет в "origin/demo":
+  - Merge branch 'boots_buttons' Kirill K. 9 minutes ago
+  - Merge remote-tracking branch 'origin/hat' Kirill K. 9 minutes ago
+  - Merge branch 'buttons' into boots_buttons Kirill K. 30.11.2023 22:29
+  - Merge branch 'boots' into boots_buttons Kirill K. 30.11.2023 22:29
+  - fix readme Andrew Khodzhakhanov 29.06.2016 2:29
